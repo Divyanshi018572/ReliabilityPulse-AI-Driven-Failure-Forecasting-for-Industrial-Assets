@@ -1,0 +1,19 @@
+# Python System Files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.env/
+env/
+
+# Data and Artifacts (Exclude large raw CSVs if needed, though this one is small)
+# data/raw/*.csv 
+
+# System Files
+.DS_Store
+Thumbs.db
+.gemini/
+.antigravity/

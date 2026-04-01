@@ -1,0 +1,10 @@
+# Production Dependencies for ReliabilityPulse
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+imbalanced-learn
+matplotlib
+seaborn
